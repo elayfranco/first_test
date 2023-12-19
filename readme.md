@@ -1,4 +1,4 @@
-## my missions
+## my missions (idownload flask for fuller requirements.txt)
 ### no requirements needed
 create a new virtual environment //v
 
